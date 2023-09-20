@@ -1,2 +1,0 @@
-# JosephNyR
-Created with CodeSandbox
